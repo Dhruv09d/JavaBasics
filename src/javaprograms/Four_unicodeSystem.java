@@ -5,9 +5,6 @@ public class Four_unicodeSystem {
 	public static void main(String args[]) {
 		
 //		ASCII - https://www.rapidtables.com/code/text/ascii-table.html
-
-		
-		
 //		operators - https://www.javatpoint.com/operators-in-java
 //		Unary Operator,
 //		Arithmetic Operator,
@@ -19,7 +16,7 @@ public class Four_unicodeSystem {
 //		Assignment Operator.
 		
 		
-		
+				
 //		KeyWords - https://www.javatpoint.com/java-keywords
 		
 		
@@ -37,7 +34,6 @@ public class Four_unicodeSystem {
 //		Jump statements
 //			break statement
 //			continue statement
-		
-		
+			
 	}
 }

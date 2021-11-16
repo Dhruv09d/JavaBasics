@@ -3,11 +3,10 @@
 //if-else-if ladder
 //nested if statement
 
-
-
 package javaprograms;
 
 public class Five_ifStatement {
+	
 	public static void main(String args[]) {
 		int a = 10;
 		int b = 20;
@@ -29,7 +28,7 @@ public class Five_ifStatement {
 		}
 		
 		
-//		if else if ladder
+//		if else if ladder 
 		System.out.println("\nif else if ladder");
 		if (a > b && a > c) {
 			System.out.println("a is greater");

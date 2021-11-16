@@ -8,15 +8,17 @@ public class Seven_for_loop {
 		
 		// printing first 10 numbers
 		int arr[] = new int[10];
-		for (int i = 1; i < 11; i++ ) {
-			System.out.println(i);
-			arr[i-1] = i;
+		
+		for (int i = 0; i < 10; i++ ) {
+			System.out.println("index: "+ (i) + " : " + (i+1));
+			arr[i] = i+1; // arr[0] = 1
 		}
 		
 		System.out.println("For each");
 		// foreach loop
+//		arr[] = [1, 2, 3, 4,5, 6, 7, 8, 9, 10]
 		for (int j: arr) {
-			System.out.println(j);
+			System.out.println("index: "+ (j - 1) + " : " + j);
 		}
 		
 	}

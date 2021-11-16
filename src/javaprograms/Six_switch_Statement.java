@@ -9,7 +9,7 @@ public class Six_switch_Statement {
 		int a = 20;
 		int b = 10;
 		int c;
-		String choice = "multiply";
+		String choice = "okiu"; 
 		switch(choice) {
 		
 		case "addition":
