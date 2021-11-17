@@ -3,9 +3,9 @@ package javaprograms;
 public class P_14_fibonacci {
 
 	public static void main(String args[]) {
-		
-//		0 1 1 2 3 5 8 13
-		
+	// n1  n2  nv	
+//		0  1   1    2 3 5 8 13
+//         n1  n2	nv	
 		int n1 = 0, n2 = 1, nxtVal;
 		
 		
@@ -13,8 +13,7 @@ public class P_14_fibonacci {
 		for (int i = 0; i < terms; i++) {
 			
 			if (i == 0 || i == 1) {
-				nxtVal = i;
-				System.out.print(nxtVal  + "\t");
+				System.out.print(i  + "\t");
 			} else {
 				nxtVal = n1 + n2;
 				n1 = n2;
@@ -22,14 +21,8 @@ public class P_14_fibonacci {
 				
 				System.out.print(nxtVal  + "\t");
 			}
-			
-			
-			
-			
+					
 		}
-		
-		
-		
 		
 		
 	}

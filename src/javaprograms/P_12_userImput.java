@@ -5,7 +5,7 @@ public class P_12_userImput {
 
 	public static void main(String args[]) {
 		
-		
+//		className obj_name = new  className(System.in);
 		Scanner userInput = new Scanner(System.in);
 		
 		// input int type
@@ -54,6 +54,12 @@ public class P_12_userImput {
 //		also closing is scanner is not desirable
 //		Thumb rule: don't close what you didn't open. – MC Emperor
 //		userInput.close();
+		
+		
+		
+		
+		
+		
 		
 	}
 	
