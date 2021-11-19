@@ -12,8 +12,8 @@
   8. Factorial Program in Java
 
 
-#day 3
-#h/w
+# day 3
+# h/w
 
 1. Matrix multiplication.
 2. array addition 1-d and 2-d
