@@ -5,7 +5,7 @@
 
 package javaprograms;
 
-public class Five_ifStatement {
+public class P_5_ifStatement {
 	
 	public static void main(String args[]) {
 		int a = 10;

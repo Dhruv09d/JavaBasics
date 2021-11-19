@@ -1,6 +1,6 @@
 package javaprograms;
 
-public class eleven_primeNumber {
+public class P_11_primeNumber {
 
 	public static void main(String args[]) {
 		

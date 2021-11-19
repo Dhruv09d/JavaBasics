@@ -7,7 +7,7 @@
 
 package javaprograms;
 
-public class Two_javaVariables {
+public class P_2_javaVariables {
 	
 	
 	static int static_Var = 69;  // Static variable

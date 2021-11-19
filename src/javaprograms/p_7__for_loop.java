@@ -1,6 +1,6 @@
 package javaprograms;
 
-public class Seven_for_loop {
+public class p_7__for_loop {
 	
 	
 	public static void main(String args[]) {

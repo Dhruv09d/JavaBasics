@@ -1,6 +1,6 @@
 package javaprograms;
 
-public class Four_unicodeSystem {
+public class P_4_unicodeSystem {
 	
 	public static void main(String args[]) {
 		

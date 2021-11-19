@@ -6,9 +6,7 @@ public class P_16_pallindrome {
 	
 	public static void main(String args[]) {
 		
-		
 		int n, rev = 0, m;
-		
 		
 		Scanner sc = new Scanner(System.in);
 		n = sc.nextInt();
@@ -30,13 +28,11 @@ public class P_16_pallindrome {
 		 * 
 		 */
 		
-		
 		 while(n != 0) {
 		 
 		        rev = rev * 10 + n % 10;
 		        n = n / 10;
-		       
-		        
+	
 		 }
 		 System.out.println(rev);
 		 

@@ -1,6 +1,6 @@
 package javaprograms;
 
-public class One_helloWorld {
+public class P_1_helloWorld {
 	
 	public static void main(String args[]) {
 		

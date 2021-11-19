@@ -1,6 +1,6 @@
 package javaprograms;
 
-public class Six_switch_Statement {
+public class P_6_switch_Statement {
 
 	
 	public static void main(String args[]) {

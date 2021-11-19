@@ -13,7 +13,7 @@
 
 package javaprograms;
 
-public class Three_javaDatatypes {
+public class P_3_javaDatatypes {
 	
 	
 	boolean bool_var  = true;     // 1 bit

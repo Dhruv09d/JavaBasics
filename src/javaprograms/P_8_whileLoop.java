@@ -1,6 +1,6 @@
 package javaprograms;
 
-public class Eight_whileLoop {
+public class P_8_whileLoop {
 
 	public static void main(String args[]) {
 //		WHile Loop
