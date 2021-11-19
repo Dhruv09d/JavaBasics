@@ -10,4 +10,13 @@
   7. Prime Number Program in Java
   8. Palindrome Program in Java
   8. Factorial Program in Java
+
+
+#day 3
+#h/w
+
+1. Matrix multiplication.
+2. array addition 1-d and 2-d
+3. print only even/odd value
+4. multiply all value by some const(eg. 1, 2 etc).
   
