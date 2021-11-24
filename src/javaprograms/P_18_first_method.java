@@ -6,14 +6,10 @@
  * 
  */
 
-
-
-
 package javaprograms;
 
 
 public class P_18_first_method {
-	
 	
 
 public static void sumTwoNum(int num1, int num2) {
