@@ -20,3 +20,4 @@
 3. print only even/odd value
 4. multiply all value by some const(eg. 1, 2 etc).
   
+### clo9ne
